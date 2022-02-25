@@ -1,6 +1,4 @@
 
-from select import select
-
 
 class Bank:
     def __init__(self,accountNumber, owner, balance):
